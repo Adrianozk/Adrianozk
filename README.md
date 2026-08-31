@@ -21,9 +21,25 @@ Pipeline em Python que extrai dados de consumo de energia, transforma as mediç�
 
 Automação em Shell Script que detecta mudanças no IP público de um servidor Linux e envia notificações pelo Discord.
 
+## Projeto em produção
+
+### [HephaLab](https://github.com/Adrianozk/hephalab-site) · [site](https://hephalab.com.br/)
+
+Código-fonte do site oficial da HephaLab, desenvolvido com HTML, CSS e JavaScript e atualmente em produção. O projeto apresenta os serviços de impressão 3D, prototipagem e modelagem da empresa em uma interface responsiva.
+
+## Estudos e projetos acadêmicos
+
 ### [Ball Tracking with OpenCV](https://github.com/Adrianozk/ball_tracking)
 
 Projeto acadêmico de visão computacional para detectar uma bola e representar sua trajetória utilizando Python e OpenCV.
+
+### [Zelda Clone](https://github.com/Adrianozk/zelda_clone-dankicode)
+
+Estudo de desenvolvimento de jogos em Java, mantido como trabalho em andamento enquanto evolui até uma primeira versão completa.
+
+### [Exercícios de Python](https://github.com/Adrianozk/exercicios_python)
+
+Repositório de aprendizado contínuo baseado no Curso em Vídeo, mantido ativo para receber os próximos exercícios e módulos do curso.
 
 ## Contribuição open source
 
