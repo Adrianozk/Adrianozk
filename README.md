@@ -25,6 +25,12 @@ Automação em Shell Script que detecta mudanças no IP público de um servidor 
 
 Projeto acadêmico de visão computacional para detectar uma bola e representar sua trajetória utilizando Python e OpenCV.
 
+## Contribuição open source
+
+### [DiscordSRV — tradução para português brasileiro](https://github.com/DiscordSRV/DiscordSRV/pull/1820)
+
+Contribuição em revisão no projeto DiscordSRV para adicionar suporte completo a **pt-BR**. O trabalho abrange mensagens internas em Java e seis arquivos de configuração e recursos, incluindo alertas, vinculação de contas, mensagens, sincronização e módulo de voz.
+
 ## Atualmente
 
 - Cursando Bacharelado em Ciência de Dados na UNIVESP
